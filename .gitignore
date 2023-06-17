@@ -1,0 +1,33 @@
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
+
+# Python #
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.swp
+
+# Virtual Environment #
+venv/
+.venv/
+env/
+ENV/
+
+# Dependencies #
+/.pnp
+.pnp.js
+/node_modules
+
+# IDE #
+.vscode/
+*.code-workspace
+
+# Other #
+*.bak
+.DS_Store
