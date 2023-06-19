@@ -31,3 +31,6 @@ ENV/
 # Other #
 *.bak
 .DS_Store
+
+#env
+.env
